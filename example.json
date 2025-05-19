@@ -1,0 +1,24 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "city": "New York",
+      "occupation": "Software Engineer",
+      "hobbies": ["Programming", "Reading", "Traveling"]
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "city": "Los Angeles",
+      "occupation": "Data Scientist",
+      "hobbies": ["Data Analysis", "Hiking", "Photography"]
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 40,
+      "city": "Chicago",
+      "occupation": "Project Manager",
+      "hobbies": ["Golf", "Cooking", "Movies"]
+    }
+  ]
+  
